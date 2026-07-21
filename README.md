@@ -1,1 +1,2 @@
-# finance
+# Finance-tracker-
+Finance manager 
